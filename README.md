@@ -1,3 +1,4 @@
+
 # Splatoon NoMotion (Cemu 1.26 or later)
 
 ![App Screenshot](https://cdn.discordapp.com/attachments/1005861052510117948/1005861123108647073/1con.png)
@@ -30,6 +31,6 @@ it worked incorrectly, and I redid it!  You can play Splatoon on a PC without a 
 ## Authors
 
 - [@MostDeviantAsiedu(original)](https://www.youtube.com/c/MostDeviantAsiedu)
-- [@SipodNewmon(1.26 fix)](https://github.com/TheSipod)
+- [@SipodNewmon(1.26 fix)](https://www.youtube.com/c/MostDeviantAsiedu)
 
 
