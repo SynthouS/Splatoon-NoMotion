@@ -1,5 +1,5 @@
 # Splatoon NoMotion (Cemu 1.26 or newer)
-
+ - [now to download](https://youtu.be/c6fLk9W1BB0)
 ![App Screenshot](https://cdn.discordapp.com/attachments/1005861052510117948/1005861123108647073/1con.png)
 
 # Who?
