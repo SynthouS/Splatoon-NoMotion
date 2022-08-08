@@ -8,7 +8,7 @@ it worked incorrectly, and I redid it!  You can play Splatoon on a PC without a 
 
 # Now to use?
  - [Now to download files](https://www.youtube.com/watch?v=bk0EtuDO3DQ&t)
- - Use DirectInput or keybord
+ - Use DirectInput or keyboard
  - Use Splatoon version 272
 
 
