@@ -1,4 +1,4 @@
-# Splatoon NoMotion (Cemu 1.26 or later)
+# Splatoon NoMotion (Cemu 1.26 or newer)
 
 ![App Screenshot](https://cdn.discordapp.com/attachments/1005861052510117948/1005861123108647073/1con.png)
 
