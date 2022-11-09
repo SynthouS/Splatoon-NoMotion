@@ -30,6 +30,6 @@ it worked incorrectly, and I redid it!  You can play Splatoon on a PC without a 
 ## Authors
 
 - [@MostDeviantAsiedu(original)](https://www.youtube.com/c/MostDeviantAsiedu)
-- [@SipodNewmon(1.26 fix)](https://github.com/TheSipod)
+- [@SipodNewmon(1.26 fix)](https://github.com/SynthouS)
 
 
