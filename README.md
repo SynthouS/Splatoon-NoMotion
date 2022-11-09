@@ -2,7 +2,7 @@
  - [now to download](https://youtu.be/c6fLk9W1BB0)
 ![App Screenshot](https://cdn.discordapp.com/attachments/1005861052510117948/1005861123108647073/1con.png)
 
-# Who?
+# What?
 this is a save and mod for Splatoon. In Cemu version 1.14 and the following versions, 
 it worked incorrectly, and I redid it!  You can play Splatoon on a PC without a gyroscope (without a motion gamepad).
 
